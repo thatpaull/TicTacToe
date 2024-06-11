@@ -1,6 +1,6 @@
 package com.example.tictactoe;
 
-public class TicTacToe {
+public class TicTacToe  {
 	private final Player player1;
 	private final Player player2;
 	private Player currentPlayer;
