@@ -26,5 +26,5 @@ jobs:
       - name: Upload JAR file
         uses: actions/upload-artifact@v3
         with:
-          name: TicTacToe.jar
+          name: tictactoe-jar
           path: target/tictactoe-1.0-SNAPSHOT.jar
