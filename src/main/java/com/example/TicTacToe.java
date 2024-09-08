@@ -1,4 +1,4 @@
-package com.example.tictactoe;
+package com.example;
 
 public class TicTacToe  {
 	private final Player player1;

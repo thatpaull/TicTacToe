@@ -1,4 +1,4 @@
-package com.example.tictactoe;
+package com.example;
 
 public class Board {
 	private char[][] cells;
